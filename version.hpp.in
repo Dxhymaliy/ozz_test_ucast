@@ -1,0 +1,4 @@
+#pragma once
+
+
+#define PROTOCOL_VERSION ${PROTOCOL_VERSION}
